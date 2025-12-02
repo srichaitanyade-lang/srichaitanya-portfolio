@@ -66,5 +66,5 @@ A modern landing page design optimized for mobile and desktop.
 ---
 
 ## 🤝 Open for Opportunities
-I am actively looking for **Frontend Developer**, **QA/Testing**, or **Web Developer** roles (remote or Berlin-based).  
+I am actively looking for **Frontend Developer**, **Web Developer** roles (remote or Berlin-based).  
 Happy to collaborate on projects!
