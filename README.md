@@ -9,7 +9,6 @@ Restarting my career after a break, passionate about learning modern technologie
 - 💼 10+ years experience in HTML & CSS  
 - 💻 Comfortable with JavaScript, Angular, and React  
 - ⏸ Took a career break for family and now actively preparing to re-enter the tech industry  
-- 🎯 Currently learning: Software Testing (Manual + Automation), German B1  
 - 🌍 Based in Berlin, Germany  
 
 ---
