@@ -54,7 +54,7 @@ A modern landing page design optimized for mobile and desktop.
 ---
 
 ## 📬 Contact
-- **Email:** srichaitanya.del@gmail.com  
+- **Email:** srichaitanya.de@gmail.com  
 - **LinkedIn:** [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/srichaitanya-ventrapragada-976a55352/)
 - **GitHub:** https://github.com/yourusername  
 
