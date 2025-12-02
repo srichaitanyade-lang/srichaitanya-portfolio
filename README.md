@@ -54,15 +54,13 @@ A modern landing page design optimized for mobile and desktop.
 ---
 
 ## 📬 Contact
-- **Email:** your-email@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **Email:** srichaitanya.del@gmail.com  
+- **LinkedIn:** [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/srichaitanya-ventrapragada-976a55352/)
 - **GitHub:** https://github.com/yourusername  
 
 ---
 
 ## 🌱 Currently Learning
-- Manual + Automation Testing (Selenium, Java/Python)  
-- German B1  
 - Modern Web Development best practices  
 
 ---
